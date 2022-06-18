@@ -20,10 +20,6 @@ a:hover {
   transition: all 0.15s ease;
 }
 
-b {
-  font-weight: 700;
-}
-
 body {
   align-items: center;
   color: var(--primary-text-color);
@@ -72,7 +68,7 @@ img {
 }
 
 section {
-  margin: 1.25rem;
+  margin: 0.75rem;
 }
 
 span {
